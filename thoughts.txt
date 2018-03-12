@@ -1,0 +1,45 @@
+make i playable over text
+
+
+1. invite players
+  - send text
+  - return text and verify they're in the game
+2. get number of players
+  - use set of yes's to start the game
+3. create deck and deal to each player
+  - build deal
+  - shuffle
+  - send out deck to each player
+4. let players pass
+  - give players their orientation
+  - tell players which direction in the LRAK we are going
+5. start with 2 clubs
+  - first round no hearts
+  - no Q clubs
+  - remove each card played from the players hand
+6.
+  - find the loser
+  - add scores to LRAK
+
+
+
+
+  need to keep track of
+  - overall score in LRAK
+  - which way we are passing
+  - cards in each players hand
+  - highest of suit played
+  - who takes the cards and score for that round
+  -
+
+
+  build deck first
+  deal cards correctly
+  determine way to pass
+  develop rule for each round
+  find way to keep score for round
+  find way to keep score for LRAK
+
+  attach functions to text notifications 
+
+  ?? shit talk spot??
